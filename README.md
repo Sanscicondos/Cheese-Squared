@@ -21,3 +21,8 @@ A.No, Cheese Squared has a different author, source code, and compilation method
   
 Q.Can I share Cheese Squared with my friends?
 A.Yes, Cheese Squared is completely free and sharing is encouraged!
+
+Q.Where can I find more information about Cheese Squared and how to use it?
+A.On the Cheese Squared Esolangs Page listed below.
+
+https://esolangs.org/wiki/Cheese%C2%B2
